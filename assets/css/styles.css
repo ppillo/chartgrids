@@ -1,0 +1,49 @@
+/* GENERAL */
+
+
+
+h1{
+	color:#2d3138;
+}
+
+p{
+	color:#2d3138;
+}
+
+section{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.px-1{
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+.mx-2{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.center{
+	text-align: center;
+}
+
+.main>h1{
+	margin-bottom: 1em;
+	margin-top: 2em;
+}
+
+.copy{
+	color: var(--pico-muted-color);
+}
+
+
+mark {
+    padding: 0;
+    background: linear-gradient(to right, #84266d, #6f3985, #5d409a, #43489d);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: xxx-large;
+}
