@@ -46,34 +46,11 @@ mark {
     font-size: xxx-large;
 }
 
-.price {
-  list-style-type: none;
-  border: 1px solid #eee;
-  margin: 0;
-  padding: 0;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
-}
-
-.price:hover {
-  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
-}
-
-.price .header {
-  color: white;
-  font-size: medium;
-}
-
 .price li {
-  border-bottom: 1px solid #eee;
-  padding: 20px;
+/*  border-bottom: 1px solid #eee;*/
+  padding: .5rem;
   text-align: center;
   list-style: none;
-}
-
-.price .grey {
-  background-color: #eee;
-  font-size: 20px;
 }
 
 .button {
