@@ -1,11 +1,7 @@
 /* GENERAL */
 
-h1{
-	color:#2d3138;
-}
-
-p{
-	color:#2d3138;
+:root {
+  --pico-h1-color: #2d3138;;
 }
 
 section{
