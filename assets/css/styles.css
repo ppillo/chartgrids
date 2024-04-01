@@ -38,6 +38,11 @@ section {
   color: var(--pico-muted-color);
 }
 
+.no-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 mark {
   padding: 0;
   background: linear-gradient(to right, #84266d, #6f3985, #5d409a, #43489d);
